@@ -7,7 +7,7 @@ body {
   align-items: center;
 }
 .container-box {
-  background-color: hsl(0, 0%, 20%);
+  background-color: hsl(0, 0%, 12%);
   width: 350px;
   text-align: center;
   padding: 1.5em;
@@ -34,7 +34,7 @@ body {
 }
 
 .grid-item {
-  background-color: hsl(0, 0%, 28%);
+  background-color: hsl(0, 0%, 20%);
   padding: 1em;
   margin: 0.5em;
   border-radius: 5px;
