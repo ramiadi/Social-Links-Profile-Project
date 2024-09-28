@@ -41,6 +41,9 @@ body {
   color: hsl(0, 0%, 100%);
   font-weight: 800;
 }
+.grid-item:hover {
+  background-color: hsl(75, 94%, 57%);
+}
 
 .attribution {
   font-size: 0.8em;
